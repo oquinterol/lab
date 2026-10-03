@@ -37,6 +37,14 @@ Exploring an IoT-connected thermocycler so that its records reach the lab’s ce
 
 Have the thermocycler report how it runs to the lab's central system. Scope, variables, and architecture are still to be decided.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |

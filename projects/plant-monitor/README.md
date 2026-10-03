@@ -53,6 +53,14 @@ pH and moisture sensors in the substrate → periodic readings → Home Assistan
 
 Sensors, measurement frequency, thresholds, and communication link.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |
