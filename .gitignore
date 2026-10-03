@@ -1,0 +1,10 @@
+# Secrets never belong in this public repository.
+secrets.yaml
+*.env
+.env*
+# Build artefacts
+.pio/
+build/
+__pycache__/
+*.pyc
+.DS_Store
