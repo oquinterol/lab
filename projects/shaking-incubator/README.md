@@ -53,6 +53,14 @@ An ESP32 as the shaking controller, connected to the lab's central system.
 
 Variables to measure, shaking mechanism, and communication link.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |

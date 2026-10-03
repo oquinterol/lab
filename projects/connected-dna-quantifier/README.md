@@ -37,6 +37,14 @@ Exploring how DNA quantifier measurements could reach the lab’s central system
 
 Record DNA quantifier measurements in the central system automatically, without copying them by hand. Scope and architecture are still to be decided.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |

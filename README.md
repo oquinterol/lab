@@ -69,4 +69,4 @@ Low-power devices transmit over LoRa to keep Wi-Fi uncongested.
 | Firmware y código / Firmware and code | [MIT](https://opensource.org/license/mit) | [`LICENSE`](LICENSE) |
 | Documentación y datos / Documentation and data | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [`LICENSE-DOCS`](LICENSE-DOCS) |
 
-Cómo citar / How to cite: [`CITATION.cff`](CITATION.cff). Contribuir / Contributing: [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Reutilizar otros proyectos / Reusing other projects: [`REUSING.md`](REUSING.md) · [`THIRD_PARTY.md`](THIRD_PARTY.md). Cómo citar / How to cite: [`CITATION.cff`](CITATION.cff). Contribuir / Contributing: [`CONTRIBUTING.md`](CONTRIBUTING.md).

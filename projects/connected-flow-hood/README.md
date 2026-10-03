@@ -37,6 +37,14 @@ Exploring how to monitor the laminar flow hood from the lab’s central system.
 
 Bring the flow hood into the lab's central system. Variables to monitor and architecture are still to be decided.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |

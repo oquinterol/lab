@@ -53,6 +53,14 @@ Light sensor → controller → dimmable LEDs, with readings and state sent to H
 
 Sensor, controller, communication link (LoRa or Wi-Fi), and regulation criteria.
 
+## Basado en / Builds on
+
+| Proyecto / Project | Licencia / Licence | Para qué / What for |
+|---|---|---|
+| _Aún ninguno / None yet_ | | |
+
+Ver / See [`REUSING.md`](../../REUSING.md).
+
 ## Estructura / Layout
 
 | Carpeta / Folder | Contenido / Contents | Licencia / Licence |
